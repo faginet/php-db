@@ -212,5 +212,7 @@
 	
 # P.S:
 Связь:
-	@faginet
-	anonfaginet@gmail.com
+
+@faginet
+
+anonfaginet@gmail.com
