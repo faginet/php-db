@@ -209,10 +209,4 @@
 	
 	DB::deleteFromWhereIN('user', array('id'=>8, 9, 10)); # удаляем все данные из таблицы по конструкции IN
 	
-	
-# P.S:
-Связь:
 
-@faginet
-
-anonfaginet@gmail.com
